@@ -1,0 +1,3 @@
+# Tensorflow-Examples
+This is a clone from the another github repo.  
+When learning those examples, I will make a few modification based on the projects I have been doing. Hope this will make my life easier... 
